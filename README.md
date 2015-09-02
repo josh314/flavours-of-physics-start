@@ -1,3 +1,5 @@
+This is my fork of the starter kit for the [Kaggle challenge](https://www.kaggle.com/c/flavours-of-physics) on [lepton number](https://en.wikipedia.org/wiki/Lepton_number) violation.
+
 First submission
 ----------------
 Follow the instructions [First submission (python)](https://github.com/yandexdataschool/flavours-of-physics-start/wiki/First-submission-(python)) to prepare your first solution
